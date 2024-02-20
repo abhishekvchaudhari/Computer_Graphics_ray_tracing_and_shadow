@@ -1,0 +1,3 @@
+/home/abhishek/Desktop/hw_1b/main/build/CMakeFiles/rebuild_cache.dir
+/home/abhishek/Desktop/hw_1b/main/build/CMakeFiles/edit_cache.dir
+/home/abhishek/Desktop/hw_1b/main/build/CMakeFiles/raytracer1b.dir
